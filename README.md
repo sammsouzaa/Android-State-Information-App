@@ -17,8 +17,10 @@ The Android app is built using XML for layout and Java for functionality. The ap
 4. Enter a valid Brazilian state abbreviation on the first screen.
 5. Explore the detailed information and interactive map on the second screen.
 
+<!--
 ## Screenshots
-Include screenshots of both screens, showcasing the state input and information display.
+Include screenshots of the app interface, demonstrating the gameplay and user interactions.
+-->
 
 ## Credits
 - Author: Samuel Moreira de Souza
